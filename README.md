@@ -1,4 +1,5 @@
-# MODELO-MACHINE-LEARNING-DE-UM-TROCADOR-DE-CALOR-TIPO-PLACA-VIA-MODELO-GERADO-NO-ASPEN_TCC
+# MODELO-MACHINE-LEARNING-DE-UM-TROCADOR-DE-CALOR-TIPO-PLACA-VIA-MODELO-GERADO-NO-ASPEN
+
 
 Métodos de otimização matemática tendem a ser cada vez mais aplicados, tanto pela 
 maior capacidade dos computadores, quanto pelo maior conhecimento do 
