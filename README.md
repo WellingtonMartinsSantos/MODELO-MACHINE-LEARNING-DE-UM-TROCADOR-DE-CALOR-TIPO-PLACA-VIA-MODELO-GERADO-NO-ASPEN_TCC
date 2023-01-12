@@ -1,5 +1,7 @@
 # MODELO-MACHINE-LEARNING-DE-UM-TROCADOR-DE-CALOR-TIPO-PLACA-VIA-MODELO-GERADO-NO-ASPEN
 
+![Modelo machine learning de um trocador de calor tipo placa via modelo gerado no Aspen](https://user-images.githubusercontent.com/68854093/212139960-2bdb8824-4509-425d-a80f-8f539274f92d.png)
+
 
 Métodos de otimização matemática tendem a ser cada vez mais aplicados, tanto pela 
 maior capacidade dos computadores, quanto pelo maior conhecimento do 
@@ -23,6 +25,8 @@ e avaliar os modelos, os dados foram separados em validação cruzada e teste. O
 modelo árvore de decisão conseguiu prever melhor a vazão mássica da corrente 
 Etanol com desvio padrão de 1,92 × 10−08 e 0 𝐾𝑔/𝑠, para os respectivos trocadores de
 calor
+
+![Flowsheet](https://user-images.githubusercontent.com/68854093/212140004-93c0916c-ec54-425c-96c6-1cc07d53dba3.png)
 
 Para mais informações:
 
