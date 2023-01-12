@@ -23,4 +23,6 @@ modelo árvore de decisão conseguiu prever melhor a vazão mássica da corrente
 Etanol com desvio padrão de 1,92 × 10−08 e 0 𝐾𝑔/𝑠, para os respectivos trocadores de
 calor
 
+Para mais informações:
+
 [Repositorio UFSCar](https://repositorio.ufscar.br/handle/ufscar/17077)
